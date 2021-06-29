@@ -91,3 +91,16 @@ serie-paralelo
 ## 4. CONCLUSIONES
 ## 5. VIDEO
 ## 6. BIBLIOGRAFÍA
+
+Roobins, A y Miller, W. (2007). * Análisis de circuitos teoría y práctica (4ta ed),  * México DF, México: Cengage Learning.
+
+Floyd, T. (2007). * Principios de circuitos eléctricos (8va ed), * México DF, México: Pearson Educación.
+
+Ingeniería Mecafenix.(2017). Potenciómetro ¿Que es y como funciona?. Recuperado de  https://www.ingmecafenix.com/electronica/potenciometro/
+
+Pererira, R.(nd) .  Conversiones
+Delta ( ∆ ) - Estrella ( Y )
+Estrella ( Y ) - Delta ( ∆ ). Escuela de Ingeniería Electrónica . Recuperado de  https://repositoriotec.tec.ac.cr/bitstream/handle/2238/10133/Conversiones%20Delta-Estrella%20y%20Estrella-Delta%20%28presentaci%C3%B3n%29.pdf?sequence=1&isAllowed=y.
+
+
+
