@@ -49,6 +49,9 @@ de múltiples lazos.
 ### 7-2 ANÁLISIS DE CIRCUITOS EN SEIRE - PARALELO
 ### 7-3 APLICACIONES DE LOS CIRCUITOS EN SERIE-PARALELO
 ### 7-4 POTENCIÓMETROS
+
+![image](https://user-images.githubusercontent.com/84431598/123877815-8a19ad80-d903-11eb-8b22-86aa24ace235.png)
+
 ### 7-5 EFECTOS DE CARGA DE LOS INSTRUMENTOS
 ### 7-6 ANÁLISIS DE CIRCUITOS POR COMPUTADORA
 
@@ -61,7 +64,13 @@ de múltiples lazos.
 ### 8-5  ANÁLISIS DE MALLAS(LAZOS)
 ### 8-6 ANÁLISIS DE NODOS
 ### 8-7 CONVERSIÓN DELTA-Y(PI-T)
-### 8-8 ROJOS PUENTE
+
+![image](https://user-images.githubusercontent.com/84431598/123878184-3a87b180-d904-11eb-8f02-7c31a2f83410.png)
+
+### 8-8 REDES PUENTE
+
+![image](https://user-images.githubusercontent.com/84431598/123878296-6a36b980-d904-11eb-9456-804224b46b14.png)
+
 ### 8-9 ANÁLISIS DE CIRCUITOS POR COMPUTADORA
 
 
