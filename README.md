@@ -73,7 +73,7 @@ de múltiples lazos.
 
 ### 8-9 ANÁLISIS DE CIRCUITOS POR COMPUTADORA
 
-
+![image](https://user-images.githubusercontent.com/84431598/123882657-dcab9780-d90c-11eb-9e71-13a778217381.png)
 
 ##  3. EXPLICACIÓN Y RESOLUCIÓN DE LOS EJERCICIOS
 ## 7. CIRCUITOS EN SERIE-PARALELO
