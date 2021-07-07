@@ -103,6 +103,15 @@ Equivale a:
 
 ![image](https://user-images.githubusercontent.com/84431598/124812685-8b616080-df29-11eb-8289-e56c3cad400a.png)
 
+b)
+
+![image](https://user-images.githubusercontent.com/84431598/124821077-e1d39c80-df33-11eb-953f-e0f4d616d088.png)
+
+Equivale a:
+
+![image](https://user-images.githubusercontent.com/84431598/124821252-19424900-df34-11eb-929c-79df87f06dc7.png)
+
+
 41. Convierta cada una de las redes Y de la figura 8-94 en su configuración 
 
 equivalente.
