@@ -92,6 +92,68 @@ de múltiples lazos.
 ### 8-6 ANÁLISIS DE NODOS
 ### 8-7 CONVERSÍON DELTA-Y (PI-T)
 ### 8-8 REDES PUENTE
+47. Vea el circuito puente de la figura 8-100:
+a. El puente esta balanceado? Explique.
+b. Escriba las ecuaciones de malla.
+c. Calcule la corriente a través de R_5.
+d. Determine el voltaje en R_5.
+
+![image](https://user-images.githubusercontent.com/84431598/124700201-ece5e880-deb1-11eb-9d1e-dd1c18e12b2a.png)
+
+a) Para que el circuito este balanceado tiene que cumplir lo siguiente:
+
+![image](https://user-images.githubusercontent.com/84431598/124700375-42ba9080-deb2-11eb-8f4b-76c8ceb02f63.png)
+
+Como no se cumple el circuito no está balanceado.
+
+b)
+
+![image](https://user-images.githubusercontent.com/84431598/124700589-97f6a200-deb2-11eb-9b03-c753012965f9.png)
+
+![image](https://user-images.githubusercontent.com/84431598/124700695-c7a5aa00-deb2-11eb-8cb5-65c1332b8b69.png)
+
+Sistema de Ecuaciones:
+
+![image](https://user-images.githubusercontent.com/84431598/124700840-17847100-deb3-11eb-863d-b0c0e273e85b.png)
+
+c)
+
+![image](https://user-images.githubusercontent.com/84431598/124700903-3e42a780-deb3-11eb-9b17-f438cc30e1d6.png)
+
+d)
+
+![image](https://user-images.githubusercontent.com/84431598/124700998-69c59200-deb3-11eb-99c7-7581d7a038af.png)
+
+49. En el circuito puente de la figura 8-102 encuentre la corriente a través de cada
+resistor.
+
+![image](https://user-images.githubusercontent.com/84431598/124701038-79dd7180-deb3-11eb-8b09-8ffe0bdfb540.png)
+
+Comprobamos que el circuito este balanceado
+
+![image](https://user-images.githubusercontent.com/84431598/124701339-012ae500-deb4-11eb-86d8-7b737ee83a9d.png)
+
+Se observa que el puente del circuito anterior está balanceado, ya que
+R1/R3  R2/R4, por lo que se puede eliminar R5 y reemplazarlo con un cortocircuito
+(debido a que el voltaje en el corto es cero) o con un circuito abierto (debido
+a que la corriente a través del circuito abierto es cero).
+
+La resistencia total se encuentra como sigue:
+
+![image](https://user-images.githubusercontent.com/84431598/124701524-5bc44100-deb4-11eb-808a-ad29913e654d.png)
+
+La corriente del circuito es:
+
+![image](https://user-images.githubusercontent.com/84431598/124701654-91692a00-deb4-11eb-8148-4349f6646728.png)
+
+La corriente en cada rama se calcula entonces con la regla del divisor de corriente:
+
+![image](https://user-images.githubusercontent.com/84431598/124701746-b6f63380-deb4-11eb-96f3-d4db44eebced.png)
+
+Tomando en cuenta que I_R1=I_R3 y I_R2=I_R4 entonces:
+
+![image](https://user-images.githubusercontent.com/84431598/124702160-8ebb0480-deb5-11eb-9a70-9c6b4590d632.png)
+
 ### 8-9 ANÁLISIS DE CIRCUITOS POR COMPUTADORA
 
 ## 4. CONCLUSIONES
