@@ -102,27 +102,32 @@ d. Determine el voltaje en R_5.
 
 a) Para que el circuito este balanceado tiene que cumplir lo siguiente:
 
-![image](https://user-images.githubusercontent.com/84431598/124700375-42ba9080-deb2-11eb-8f4b-76c8ceb02f63.png)
+![image](https://user-images.githubusercontent.com/84431598/124702561-23bdfd80-deb6-11eb-9414-3216b5d65ee2.png)
 
 Como no se cumple el circuito no está balanceado.
 
 b)
 
-![image](https://user-images.githubusercontent.com/84431598/124700589-97f6a200-deb2-11eb-9b03-c753012965f9.png)
+![image](https://user-images.githubusercontent.com/84431598/124702618-42bc8f80-deb6-11eb-8a06-a3c7c1037266.png)
 
-![image](https://user-images.githubusercontent.com/84431598/124700695-c7a5aa00-deb2-11eb-8cb5-65c1332b8b69.png)
+![image](https://user-images.githubusercontent.com/84431598/124702760-9a5afb00-deb6-11eb-91ae-eedef9335bcc.png)
 
 Sistema de Ecuaciones:
 
-![image](https://user-images.githubusercontent.com/84431598/124700840-17847100-deb3-11eb-863d-b0c0e273e85b.png)
+![image](https://user-images.githubusercontent.com/84431598/124702825-bd85aa80-deb6-11eb-8a13-6d7534697bb5.png)
+
+![image](https://user-images.githubusercontent.com/84431598/124703009-19503380-deb7-11eb-85a8-08bca99607af.png)
+
 
 c)
 
-![image](https://user-images.githubusercontent.com/84431598/124700903-3e42a780-deb3-11eb-9b17-f438cc30e1d6.png)
+![image](https://user-images.githubusercontent.com/84431598/124703071-371d9880-deb7-11eb-92f1-634c279ef8a2.png)
+
 
 d)
 
-![image](https://user-images.githubusercontent.com/84431598/124700998-69c59200-deb3-11eb-99c7-7581d7a038af.png)
+![image](https://user-images.githubusercontent.com/84431598/124703132-56b4c100-deb7-11eb-8111-9155baf1c030.png)
+
 
 49. En el circuito puente de la figura 8-102 encuentre la corriente a través de cada
 resistor.
@@ -140,19 +145,19 @@ a que la corriente a través del circuito abierto es cero).
 
 La resistencia total se encuentra como sigue:
 
-![image](https://user-images.githubusercontent.com/84431598/124701524-5bc44100-deb4-11eb-808a-ad29913e654d.png)
+![image](https://user-images.githubusercontent.com/84431598/124703916-cf684d00-deb8-11eb-9d14-5ed0a1528d95.png)
 
 La corriente del circuito es:
 
-![image](https://user-images.githubusercontent.com/84431598/124701654-91692a00-deb4-11eb-8148-4349f6646728.png)
+![image](https://user-images.githubusercontent.com/84431598/124703987-eeff7580-deb8-11eb-81a4-fbc876172b45.png)
 
 La corriente en cada rama se calcula entonces con la regla del divisor de corriente:
 
-![image](https://user-images.githubusercontent.com/84431598/124701746-b6f63380-deb4-11eb-96f3-d4db44eebced.png)
+![image](https://user-images.githubusercontent.com/84431598/124704058-0cccda80-deb9-11eb-981b-fe1c861f52b9.png)
 
 Tomando en cuenta que I_R1=I_R3 y I_R2=I_R4 entonces:
 
-![image](https://user-images.githubusercontent.com/84431598/124702160-8ebb0480-deb5-11eb-9a70-9c6b4590d632.png)
+![image](https://user-images.githubusercontent.com/84431598/124704396-a1cfd380-deb9-11eb-81a0-c616f33c62ae.png)
 
 ### 8-9 ANÁLISIS DE CIRCUITOS POR COMPUTADORA
 
