@@ -116,6 +116,9 @@ Equivale a:
 
 equivalente.
 
+![image](https://user-images.githubusercontent.com/84431598/124821609-8a81fc00-df34-11eb-96d1-e0698995ea6d.png)
+
+
 
 ### 8-8 ROJOS PUENTE
 47. Vea el circuito puente de la figura 8-100:
