@@ -91,7 +91,24 @@ de múltiples lazos.
 ### 8-5 ANÁLISIS DE CORRIENTE DE MALLAS (LAZOS)
 ### 8-6 ANÁLISIS DE NODOS
 ### 8-7 CONVERSÍON DELTA-Y (PI-T)
-### 8-8 REDES PUENTE
+39. Convierta cada una de las redes 
+ de la figura 8-92 en su configuración Y
+equivalente.
+
+![image](https://user-images.githubusercontent.com/84431598/124812347-17bf5380-df29-11eb-9b1b-2be030108c08.png)
+
+![image](https://user-images.githubusercontent.com/84431598/124812520-53f2b400-df29-11eb-89fc-ea0877aaeac9.png)
+
+Equivale a: 
+
+![image](https://user-images.githubusercontent.com/84431598/124812685-8b616080-df29-11eb-8289-e56c3cad400a.png)
+
+41. Convierta cada una de las redes Y de la figura 8-94 en su configuración 
+
+equivalente.
+
+
+### 8-8 ROJOS PUENTE
 47. Vea el circuito puente de la figura 8-100:
 a. El puente esta balanceado? Explique.
 b. Escriba las ecuaciones de malla.
@@ -162,6 +179,7 @@ Tomando en cuenta que I_R1=I_R3 y I_R2=I_R4 entonces:
 ### 8-9 ANÁLISIS DE CIRCUITOS POR COMPUTADORA
 
 ## 4. CONCLUSIONES
+- 
 ## 5. VIDEO
 ## 6. BIBLIOGRAFÍA
 
