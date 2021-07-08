@@ -104,6 +104,22 @@ c. Encuentre V_DS.
 
 ![image](https://user-images.githubusercontent.com/84431598/124848027-a9e34e00-df61-11eb-8e11-6b0379d7c0df.png)
 
+a)
+
+![image](https://user-images.githubusercontent.com/84431598/124854455-f8e2b080-df6c-11eb-8588-80d7a70eb34c.png)
+
+b)
+
+![image](https://user-images.githubusercontent.com/84431598/124854513-0e57da80-df6d-11eb-8120-14d7412bdf8d.png)
+
+c)
+
+![image](https://user-images.githubusercontent.com/84431598/124854644-3f380f80-df6d-11eb-9465-ae4ceed2404c.png)
+
+25. Calcule I_C y V_CE para el circuito de la figura 7-67.
+
+![image](https://user-images.githubusercontent.com/84431598/124854666-4c54fe80-df6d-11eb-9443-95b8d466207b.png)
+
 
 
 ### 7-4 POTENCIÓMETROS 
