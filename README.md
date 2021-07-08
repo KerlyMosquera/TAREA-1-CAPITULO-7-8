@@ -242,6 +242,12 @@ Tomando en cuenta que I_R1=I_R3 y I_R2=I_R4 entonces:
 
 ### 8-9 ANÁLISIS DE CIRCUITOS POR COMPUTADORA
 
+51. Utilice Multisim para encontrar las corrientes a través de todos los resistores
+del circuito que se muestra en la figura 8-86.
+
+53. Utilice PSpice para encontrar las corrientes a través de todos los resistores del
+circuito de la figura 8-96.
+
 ## 4. CONCLUSIONES
 - Un circuito en serie-paralelo es una combinación de trayectorias tanto en serie como en paralelo.
 - Para determinar la resistencia total en un circuito en serie-paralelo, identifique las relaciones serie y para-
