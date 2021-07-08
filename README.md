@@ -204,7 +204,21 @@ Tomando en cuenta que I_R1=I_R3 y I_R2=I_R4 entonces:
 ### 8-9 ANÁLISIS DE CIRCUITOS POR COMPUTADORA
 
 ## 4. CONCLUSIONES
-- 
+- Un circuito en serie-paralelo es una combinación de trayectorias tanto en serie como en paralelo.
+- Para determinar la resistencia total en un circuito en serie-paralelo, identifique las relaciones serie y para-
+lelo, y luego aplique las fórmulas para resistencia en serie y resistencia en paralelo.
+- Para determinar corrientes de rama, aplique la fórmula del divisor de corriente, la ley de la corriente de
+Kirchhoff o ley de Ohm. Considere cada problema de circuito individualmente para encontrar el méto-
+do más apropiado.
+- El método de la corriente en ramas está basado en las leyes del voltaje y de la corriente de Kirchhoff.
+- El método de la corriente en lazos está basado en la ley del voltaje de Kirchhoff.
+- La corriente que circula en un lazo no es necesariamente la corriente real presente en una rama.
+- El método del voltaje en nodos está basado en la ley de la corriente de Kirchhoff.
+- Se puede utilizar un puente Wheatstone equilibrado para medir una resistencia desconocida.
+- Un puente está equilibrado cuando el voltaje de salida es de cero. La condición equilibrada produce co-
+rriente de cero a través de una carga conectada entre las terminales de salida del puente.
+- Se puede utilizar un puente Wheatstone desequilibrado para medir cantidades físicas por medio de un
+transductor.
 ## 5. VIDEO
 ## 6. BIBLIOGRAFÍA
 
