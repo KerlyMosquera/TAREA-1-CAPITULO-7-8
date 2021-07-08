@@ -81,17 +81,6 @@ de múltiples lazos.
 ### 7-1  LA RED EN SERIE - PARALELO
 ### 7-2 ANÁLISIS DE CIRCUITOS EN SERIE - PARALELO
 ### 7-3 APLICACIONES DE LOS CIRCUITOS EN SERIE - PARALELO
-17. Encuentre todas las corrientes y caídas de voltaje en el circuito de la figura 7-60.
-Verifique que la potencia suministrada por la fuente de voltaje es igual a la potencia
-disipada por los resistores y por el diodo zener.
-
-![image](https://user-images.githubusercontent.com/84431598/124847913-76a0bf00-df61-11eb-95d6-3a4f4f1a5628.png)
-
-19.En el circuito de la figura 7-62 determine el intervalo de R (valores máximos y
-mínimo) que aseguraran que el voltaje de salida sea de VL_5.6 V mientras
-que no se exceda la especificación de máxima potencia del diodo zener.
-
-![image](https://user-images.githubusercontent.com/84431598/124847967-8ae4bc00-df61-11eb-9ba4-54ee58620578.png)
 
 21. En el circuito de la figura 7-64 determine V_b, I_c y V_CE.
 
@@ -116,13 +105,21 @@ c)
 
 ![image](https://user-images.githubusercontent.com/84431598/124854644-3f380f80-df6d-11eb-9465-ae4ceed2404c.png)
 
-25. Calcule I_C y V_CE para el circuito de la figura 7-67.
-
-![image](https://user-images.githubusercontent.com/84431598/124854666-4c54fe80-df6d-11eb-9443-95b8d466207b.png)
-
-
-
 ### 7-4 POTENCIÓMETROS 
+
+27. Vea el circuito de la figura 7-69:
+a. Determine el intervalo de voltajes que aparecerán en R_L a medida que el
+potenciómetro varié entre sus valores mínimo y máximo.
+b. Si R2 se ajusta para tener 2.5 kΩ. ¿Cuál será el voltaje V_L? Si se remueve el
+resistor de carga. que voltaje aparecerá entre las terminales a y b?
+
+![image](https://user-images.githubusercontent.com/84431598/124994914-39ddd200-e00c-11eb-9303-3ca0e6d5498a.png)
+
+29. Si el potenciómetro de la figura 7-70 se ajusta para que R_2 = 200 Ω, determine
+los voltajes V_ab y V_bc.
+
+![image](https://user-images.githubusercontent.com/84431598/124994998-4feb9280-e00c-11eb-8439-14317d54fd06.png)
+
 ### 7-5 EFECTOS DE CARGA DE LOS INTRUMENTOS
 ### 7-6 ANÁLISIS DE CIRCUITOS POR COMPUTADORA
 ## 8. MÉTODO DE ANÁLISIS
