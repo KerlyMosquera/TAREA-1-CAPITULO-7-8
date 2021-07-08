@@ -118,6 +118,19 @@ equivalente.
 
 ![image](https://user-images.githubusercontent.com/84431598/124821609-8a81fc00-df34-11eb-96d1-e0698995ea6d.png)
 
+a)
+
+![image](https://user-images.githubusercontent.com/84431598/124842916-4d2e6600-df56-11eb-81a1-b8cc25cae055.png)
+
+![image](https://user-images.githubusercontent.com/84431598/124842996-8bc42080-df56-11eb-8fe4-b1026617c09d.png)
+
+b)
+
+![image](https://user-images.githubusercontent.com/84431598/124843025-a3030e00-df56-11eb-9d95-6e53c18542de.png)
+
+Equivale a:
+
+![image](https://user-images.githubusercontent.com/84431598/124843202-055c0e80-df57-11eb-9f74-d192aaf59c1c.png)
 
 
 ### 8-8 ROJOS PUENTE
