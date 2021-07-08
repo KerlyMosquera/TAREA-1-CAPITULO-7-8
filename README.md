@@ -48,6 +48,7 @@ de múltiples lazos.
 ### 7-1 LA ROJA EN SERIE-PARALELO
 ### 7-2 ANÁLISIS DE CIRCUITOS EN SEIRE - PARALELO
 ### 7-3 APLICACIONES DE LOS CIRCUITOS EN SERIE-PARALELO
+
 ### 7-4 POTENCIÓMETROS
 
 ![image](https://user-images.githubusercontent.com/84431598/123877815-8a19ad80-d903-11eb-8b22-86aa24ace235.png)
@@ -80,6 +81,31 @@ de múltiples lazos.
 ### 7-1  LA RED EN SERIE - PARALELO
 ### 7-2 ANÁLISIS DE CIRCUITOS EN SERIE - PARALELO
 ### 7-3 APLICACIONES DE LOS CIRCUITOS EN SERIE - PARALELO
+17. Encuentre todas las corrientes y caídas de voltaje en el circuito de la figura 7-60.
+Verifique que la potencia suministrada por la fuente de voltaje es igual a la potencia
+disipada por los resistores y por el diodo zener.
+
+![image](https://user-images.githubusercontent.com/84431598/124847913-76a0bf00-df61-11eb-95d6-3a4f4f1a5628.png)
+
+19.En el circuito de la figura 7-62 determine el intervalo de R (valores máximos y
+mínimo) que aseguraran que el voltaje de salida sea de VL_5.6 V mientras
+que no se exceda la especificación de máxima potencia del diodo zener.
+
+![image](https://user-images.githubusercontent.com/84431598/124847967-8ae4bc00-df61-11eb-9ba4-54ee58620578.png)
+
+21. En el circuito de la figura 7-64 determine V_b, I_c y V_CE.
+
+![image](https://user-images.githubusercontent.com/84431598/124847994-99cb6e80-df61-11eb-8073-81192f5c0dab.png)
+
+23. Considere el circuito de la figura 7-65 y los valores indicados:
+a. Determine I_D.
+b. Calcule el valor requerido de R_S.
+c. Encuentre V_DS.
+
+![image](https://user-images.githubusercontent.com/84431598/124848027-a9e34e00-df61-11eb-8e11-6b0379d7c0df.png)
+
+
+
 ### 7-4 POTENCIÓMETROS 
 ### 7-5 EFECTOS DE CARGA DE LOS INTRUMENTOS
 ### 7-6 ANÁLISIS DE CIRCUITOS POR COMPUTADORA
