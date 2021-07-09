@@ -82,10 +82,6 @@ de múltiples lazos.
 ### 7-2 ANÁLISIS DE CIRCUITOS EN SERIE - PARALELO
 ### 7-3 APLICACIONES DE LOS CIRCUITOS EN SERIE - PARALELO
 
-21. En el circuito de la figura 7-64 determine V_b, I_c y V_CE.
-
-![image](https://user-images.githubusercontent.com/84431598/124847994-99cb6e80-df61-11eb-8073-81192f5c0dab.png)
-
 23. Considere el circuito de la figura 7-65 y los valores indicados:
 a. Determine I_D.
 b. Calcule el valor requerido de R_S.
