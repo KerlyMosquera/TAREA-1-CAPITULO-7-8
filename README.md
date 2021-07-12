@@ -111,6 +111,18 @@ resistor de carga. que voltaje aparecerá entre las terminales a y b?
 
 ![image](https://user-images.githubusercontent.com/84431598/124994914-39ddd200-e00c-11eb-9303-3ca0e6d5498a.png)
 
+a)
+
+![image](https://user-images.githubusercontent.com/84431598/125360722-e8965100-e331-11eb-9222-48b1ffa6f3f6.png)
+
+b)
+
+![image](https://user-images.githubusercontent.com/84431598/125360796-019f0200-e332-11eb-975f-b6776aacbe2f.png)
+
+c)
+
+![image](https://user-images.githubusercontent.com/84431598/125360906-2a26fc00-e332-11eb-9032-9571aada2e82.png)
+
 29. Si el potenciómetro de la figura 7-70 se ajusta para que R_2 = 200 Ω, determine
 los voltajes V_ab y V_bc.
 
