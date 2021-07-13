@@ -96,6 +96,33 @@ de múltiples lazos.
 ##  3. EXPLICACIÓN Y RESOLUCIÓN DE LOS EJERCICIOS
 ## 7. CIRCUITOS EN SERIE-PARALELO
 ### 7-1  LA RED EN SERIE - PARALELO
+
+1. Para las redes de la figura 7-46, determine cuales resistores y ramas están en serie y cuales en paralelo. Escriba una expresión para la resistencia total, RT.
+
+![image](https://user-images.githubusercontent.com/84425276/125490271-e6b94e3e-3e9a-42f7-854d-4c9c8a42e9c9.png)
+
+![image](https://user-images.githubusercontent.com/84425276/125490369-c2a22ec8-71e0-4695-b6d6-b1a4ac00cb7c.png)
+
+![image](https://user-images.githubusercontent.com/84425276/125490510-e1a0ab00-aa38-41ab-8524-f7287ca0a56d.png)
+
+3. Escriba una expresión para RT1 y RT2 para las redes de la figura 7-48.
+
+![image](https://user-images.githubusercontent.com/84425276/125490535-18be7b0a-6680-4093-8fbd-dc555e3b27f7.png)
+
+![image](https://user-images.githubusercontent.com/84425276/125490592-0326cf99-51f4-4db4-857d-c9fd674e556c.png)
+
+![image](https://user-images.githubusercontent.com/84425276/125490634-08d221a9-ffdd-4522-a802-1000bd15849b.png)
+
+5. Las redes de resistores tienen las resistencias totales que se muestran a continuación.
+Dibuje un circuito que corresponda a cada expresión.
+a. RT = (R1||R2||R3) + (R4||R5)
+
+![image](https://user-images.githubusercontent.com/84425276/125490679-b862ae5d-1970-4c27-9e3e-a0a1e38a4c43.png)
+
+b. RT = R1 + (R2||R3) + [R4||(R5 + R6)]
+
+![image](https://user-images.githubusercontent.com/84425276/125490735-901de44f-b31a-454b-be9c-38e8deca3e7b.png)
+
 ### 7-2 ANÁLISIS DE CIRCUITOS EN SERIE - PARALELO
 ### 7-3 APLICACIONES DE LOS CIRCUITOS EN SERIE - PARALELO
 
