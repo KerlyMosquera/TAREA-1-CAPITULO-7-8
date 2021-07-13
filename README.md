@@ -191,6 +191,7 @@ b. Determine los voltajes VS y V1.
 
 ![image](https://user-images.githubusercontent.com/84458025/125379656-8865d600-e356-11eb-9897-a5bbbfdb67ab.png)
 
+![image](https://user-images.githubusercontent.com/84458025/125395732-2ebed500-e371-11eb-9f51-aecb18270607.png)
 
 
 
@@ -199,12 +200,22 @@ b. Determine los voltajes VS y V1.
 
 ![image](https://user-images.githubusercontent.com/84458025/125379777-be0abf00-e356-11eb-94f0-43a603e5db29.png)
 
+![image](https://user-images.githubusercontent.com/84458025/125396363-0c798700-e372-11eb-85b2-edfa3841dd72.png)
+
+
 11. Vea el circuito de la figura 8-72:
 
 ![image](https://user-images.githubusercontent.com/84458025/125379889-f8745c00-e356-11eb-8492-082965ad18f7.png)
 
 a. Encuentre la corriente a través del resistor de carga con la regla del divisor de corriente.
+
+![image](https://user-images.githubusercontent.com/84458025/125394606-8c522200-e36f-11eb-8279-8c423f5aa1af.png)
+
+
 b. Convierta la fuente de corriente en su fuente de voltaje equivalente y determine,otra vez, la corriente a través de la carga.
+
+![image](https://user-images.githubusercontent.com/84458025/125394877-fb2f7b00-e36f-11eb-8c5c-04b35f501871.png)
+
 
 13. Vea el circuito de la figura 8-74:
 
@@ -212,8 +223,12 @@ b. Convierta la fuente de corriente en su fuente de voltaje equivalente y determ
 
 
 a. Convierta la fuente de corriente y el resistor de 330 ohms en su fuente de voltaje equivalente.
+
 b. Encuentre la corriente I a través de RL.
+
 c. Determine el voltaje Vab.
+
+![image](https://user-images.githubusercontent.com/84458025/125396919-d8529600-e372-11eb-9899-026f170f8041.png)
 
 
 ### 8-3 FUENTES DE CORRIENTE EN PARALELO Y EN SERIE
