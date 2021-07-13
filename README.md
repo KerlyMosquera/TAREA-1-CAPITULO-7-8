@@ -49,6 +49,8 @@ de múltiples lazos.
 ### 7-2 ANÁLISIS DE CIRCUITOS EN SERIE - PARALELO
 ### 7-3 APLICACIONES DE LOS CIRCUITOS EN SERIE-PARALELO
 
+![image](https://user-images.githubusercontent.com/84431598/125376999-d3311f00-e351-11eb-85fa-383813c9ad16.png)
+
 ### 7-4 POTENCIÓMETROS
 
 ![image](https://user-images.githubusercontent.com/84431598/123877815-8a19ad80-d903-11eb-8b22-86aa24ace235.png)
