@@ -161,9 +161,12 @@ c. Calcule el efecto de carga del medidor cuando se utilice como se muestra.
 d. Si se usa el mismo voltímetro para medir el voltaje en el resistor de 200kohms, ¿cuál será la lectura?
 
 37.-Un amperímetro se usa para medir la corriente en el circuito que se muestra en la figura 7-76.
+
+![image](https://user-images.githubusercontent.com/84458025/125473944-274b7c60-f84d-409d-a80a-e9800bf1b985.png)
+
 a. Explique cómo conectar de manera correcta el amperímetro para medir la corriente I1.
-b. Determine los valores indicados cuando el amperímetro se usa para medircada una de las corrientes que se indican en el circuito.
-c. Calcule el efecto de carga en el medidor cuando se mide cada una de las corrientes.
+
+La forma correcta es colocando nuestro multimetro en serie ya que para realizar esta medicion nuestro multimetro actua como un cable mas.
 
 
 ### 7-6 ANÁLISIS DE CIRCUITOS POR COMPUTADORA
