@@ -156,9 +156,20 @@ resistor de 750 komhs de la figura 7-74. El medidor indica un voltaje de 5.00 V.
 
 
 a. Determine el valor de la fuente de voltaje E.
+
+![image](https://user-images.githubusercontent.com/84458025/125481208-698fea29-e75b-432c-9fc7-1c4a0710a856.png)
+
 b. ¿Qué voltaje se presentará en el resistor de 750 kohms cuando el voltímetro se quite del circuito?
+
+![image](https://user-images.githubusercontent.com/84458025/125481852-51eb510b-7352-4521-aaa2-0b061ad7378f.png)
+
 c. Calcule el efecto de carga del medidor cuando se utilice como se muestra.
+
+![image](https://user-images.githubusercontent.com/84458025/125482161-091ddd13-fe35-419b-9859-9eeadf9fd4fa.png)
+
 d. Si se usa el mismo voltímetro para medir el voltaje en el resistor de 200kohms, ¿cuál será la lectura?
+
+![image](https://user-images.githubusercontent.com/84458025/125482714-bc60a750-2bf3-4874-b8e7-865af38eabdf.png)
 
 37.-Un amperímetro se usa para medir la corriente en el circuito que se muestra en la figura 7-76.
 
