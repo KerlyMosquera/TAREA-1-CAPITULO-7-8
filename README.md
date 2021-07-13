@@ -45,8 +45,14 @@ de múltiples lazos.
 ## 2. MARCO TEÓRICO (RESUMEN)
 ## 7. CIRCUITOS EN SERIE-PARALELO
 
-### 7-1 LA ROJA EN SERIE-PARALELO
+### 7-1 LA RED EN SERIE-PARALELO
+
+![La red en serie-paralelo](https://user-images.githubusercontent.com/84425276/125489854-7ebae040-b2d8-41b4-8c0f-b249cbe67cdd.png)
+
 ### 7-2 ANÁLISIS DE CIRCUITOS EN SERIE - PARALELO
+
+![Análisis de circuitos en serie-paralelo](https://user-images.githubusercontent.com/84425276/125489906-9261f68c-c2f1-46e9-b8fe-86f1ef0b9554.png)
+
 ### 7-3 APLICACIONES DE LOS CIRCUITOS EN SERIE-PARALELO
 
 ![image](https://user-images.githubusercontent.com/84431598/125483912-9f795ad8-89a1-4a89-92f2-3c66b8e515c3.png)
@@ -64,8 +70,17 @@ de múltiples lazos.
 ### 8-2 CONVERSIONES DE FUENTES
 ### 8-3 FUENTES DE CORRIENTE EN PARALELO Y EN SERIE
 ### 8-4 ANÁLISIS DE CORRIENTE DE RAMAS
+
+![Análisis de corriente de rama](https://user-images.githubusercontent.com/84425276/125489985-79a9fd75-01dc-446b-9324-7f6840058480.png)
+
 ### 8-5  ANÁLISIS DE MALLAS(LAZOS)
+
+![Análisis de mallas (lazos)](https://user-images.githubusercontent.com/84425276/125490023-df172a01-efa6-459f-a3c5-f0e64ae812f0.png)
+
 ### 8-6 ANÁLISIS DE NODOS
+
+![Análisis de nodos](https://user-images.githubusercontent.com/84425276/125490058-9beae920-f40a-4f2b-9b17-662ffba595a7.png)
+
 ### 8-7 CONVERSIÓN DELTA-Y(PI-T)
 
 ![image](https://user-images.githubusercontent.com/84431598/123878184-3a87b180-d904-11eb-8f02-7c31a2f83410.png)
