@@ -169,6 +169,16 @@ c. Calcule el efecto de carga en el medidor cuando se mide cada una de las corri
 ### 7-6 ANÁLISIS DE CIRCUITOS POR COMPUTADORA
 39. Use Multisim para encontrar V2, V4, IT, I1 e I2 en el circuito de la figura 7-10.
 
+![image](https://user-images.githubusercontent.com/84458025/125468262-5611242a-eb9d-4572-87a4-ed3ebe2efd43.png)
+
+41.-Use Multisim para encontrar las lecturas del medidor en el circuito de la figura 7-75, si está en la escala de 50 V.
+
+![image](https://user-images.githubusercontent.com/84458025/125466670-1dc92a10-3bd7-4af8-ae52-bfed80b33a85.png)
+
+43. Use PSpice para encontrar V2, V4, IT, I1 e I2 en el circuito de la figura 7-10.
+
+![image](https://user-images.githubusercontent.com/84458025/125469454-f753ef22-546b-48bc-b6cc-d27e6257af14.png)
+
 
 ## 8. MÉTODO DE ANÁLISIS
 ### 8-1 FUENTES DE CORRIENTE CONSTANTE
@@ -241,6 +251,9 @@ b. Encuentre la corriente I a través de RL.
 c. Determine el voltaje Vab.
 
 ![image](https://user-images.githubusercontent.com/84458025/125396919-d8529600-e372-11eb-9899-026f170f8041.png)
+
+![image](https://user-images.githubusercontent.com/84458025/125463988-ca3fa8af-2a8a-4855-9ce9-b510f52b1031.png)
+![image](https://user-images.githubusercontent.com/84458025/125464041-05d73fc4-4515-4db7-8b45-57c3234504a5.png)
 
 
 ### 8-3 FUENTES DE CORRIENTE EN PARALELO Y EN SERIE
