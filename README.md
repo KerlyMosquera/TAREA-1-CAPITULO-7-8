@@ -62,13 +62,29 @@ de múltiples lazos.
 ![image](https://user-images.githubusercontent.com/84431598/123877815-8a19ad80-d903-11eb-8b22-86aa24ace235.png)
 
 ### 7-5 EFECTOS DE CARGA DE LOS INSTRUMENTOS
+
+![image](https://user-images.githubusercontent.com/84458025/125496084-6c3c5f66-c960-46a9-ab88-fdd27753dc13.png)
+
 ### 7-6 ANÁLISIS DE CIRCUITOS POR COMPUTADORA
+
+![image](https://user-images.githubusercontent.com/84458025/125496029-50c01f5d-3211-441b-a37f-20b8219a322f.png)
+
 
 ## 8. MÉTODO DE ANÁLISIS
 
 ### 8-1 FUENTES DE CORRIENTE CONSTANTE
+
+![Diapositiva1](https://user-images.githubusercontent.com/84458025/125495383-fc710c1f-4c7e-4139-a04e-20807615b303.JPG)
+
 ### 8-2 CONVERSIONES DE FUENTES
+
+![Diapositiva2](https://user-images.githubusercontent.com/84458025/125495581-54e7cb34-6e76-4d14-8381-a21f8cf54dac.JPG)
+
+
 ### 8-3 FUENTES DE CORRIENTE EN PARALELO Y EN SERIE
+
+![Diapositiva3](https://user-images.githubusercontent.com/84458025/125495612-da14e103-b4f0-49a8-9045-caf2452f2f9f.JPG)
+
 ### 8-4 ANÁLISIS DE CORRIENTE DE RAMAS
 
 ![Análisis de corriente de rama](https://user-images.githubusercontent.com/84425276/125489985-79a9fd75-01dc-446b-9324-7f6840058480.png)
@@ -301,14 +317,16 @@ los voltajes V_ab y V_bc.
 
 a. Determine el intervalo del voltaje de salida (del mínimo al máximo) que se espera cuando el potenciómetro se ajusta del mínimo al máximo.
 
-
+![image](https://user-images.githubusercontent.com/84458025/125494270-a0fdb24d-bc4b-46c3-bfcb-92f375c07c50.png)
 
 b. Calcule R2 cuando Vsal=20 V.
 
+![image](https://user-images.githubusercontent.com/84458025/125494322-f3450170-4859-476f-8a17-b3488145c066.png)
 
 33.-En el circuito de la figura 7-72 calcule el voltaje de salida Vsal cuando RL=0 ohms, 250 ohms y 500 ohms.
 ![image](https://user-images.githubusercontent.com/84458025/125376269-45086900-e350-11eb-9607-19a5993dff42.png)
 
+![image](https://user-images.githubusercontent.com/84458025/125494402-a2e22f60-1b67-4f92-a3ee-ce42e3183a93.png)
 
 
 ### 7-5 EFECTOS DE CARGA DE LOS INSTRUMENTOS
@@ -632,8 +650,14 @@ Tomando en cuenta que I_R1=I_R3 y I_R2=I_R4 entonces:
 51. Utilice Multisim para encontrar las corrientes a través de todos los resistores
 del circuito que se muestra en la figura 8-86.
 
+![image](https://user-images.githubusercontent.com/84458025/125494499-ea63b3e1-75dc-4284-8e7b-6f286be92911.png)
+
+
 53. Utilice PSpice para encontrar las corrientes a través de todos los resistores del
 circuito de la figura 8-96.
+
+![image](https://user-images.githubusercontent.com/84458025/125494592-860f582e-5f65-4faf-945e-44aec384b0b2.png)
+
 
 ## 4. CONCLUSIONES
 - Un circuito en serie-paralelo es una combinación de trayectorias tanto en serie como en paralelo.
@@ -652,6 +676,9 @@ rriente de cero a través de una carga conectada entre las terminales de salida 
 - Se puede utilizar un puente Wheatstone desequilibrado para medir cantidades físicas por medio de un
 transductor.
 ## 5. VIDEO
+
+https://youtu.be/mNRnZ8CNKQI
+
 ## 6. BIBLIOGRAFÍA
 
 Roobins, A y Miller, W. (2007). *Análisis de circuitos teoría y práctica (4ta ed),* México DF, México: Cengage Learning.
