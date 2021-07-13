@@ -49,8 +49,6 @@ de múltiples lazos.
 ### 7-2 ANÁLISIS DE CIRCUITOS EN SERIE - PARALELO
 ### 7-3 APLICACIONES DE LOS CIRCUITOS EN SERIE-PARALELO
 
-![image](https://user-images.githubusercontent.com/84431598/125376999-d3311f00-e351-11eb-85fa-383813c9ad16.png)
-
 ### 7-4 POTENCIÓMETROS
 
 ![image](https://user-images.githubusercontent.com/84431598/123877815-8a19ad80-d903-11eb-8b22-86aa24ace235.png)
@@ -132,12 +130,101 @@ los voltajes V_ab y V_bc.
 
 ![image](https://user-images.githubusercontent.com/84431598/125367049-06b57e80-e33d-11eb-8a63-a3d1b7febc44.png)
 
+31.-Vea el circuito de la figura 7-71:
+
+![image](https://user-images.githubusercontent.com/84458025/125376099-e7741c80-e34f-11eb-8e33-8130c1d7856b.png)
+
+
+
+a. Determine el intervalo del voltaje de salida (del mínimo al máximo) que se espera cuando el potenciómetro se ajusta del mínimo al máximo.
+
+
+
+b. Calcule R2 cuando Vsal=20 V.
+
+
+33.-En el circuito de la figura 7-72 calcule el voltaje de salida Vsal cuando RL=0 ohms, 250 ohms y 500 ohms.
+![image](https://user-images.githubusercontent.com/84458025/125376269-45086900-e350-11eb-9607-19a5993dff42.png)
+
+
+
 ### 7-5 EFECTOS DE CARGA DE LOS INSTRUMENTOS
+35.-Un voltímetro con una sensibilidad de S=20 kohms/V se usa en la escala de 10 V (con una resistencia interna total de 200 k) para medir el voltaje en el
+resistor de 750 komhs de la figura 7-74. El medidor indica un voltaje de 5.00 V.
+
+![image](https://user-images.githubusercontent.com/84458025/125376482-b3e5c200-e350-11eb-816b-3917b6cd21ca.png)
+
+
+a. Determine el valor de la fuente de voltaje E.
+b. ¿Qué voltaje se presentará en el resistor de 750 kohms cuando el voltímetro se quite del circuito?
+c. Calcule el efecto de carga del medidor cuando se utilice como se muestra.
+d. Si se usa el mismo voltímetro para medir el voltaje en el resistor de 200kohms, ¿cuál será la lectura?
+
+37.-Un amperímetro se usa para medir la corriente en el circuito que se muestra en la figura 7-76.
+a. Explique cómo conectar de manera correcta el amperímetro para medir la corriente I1.
+b. Determine los valores indicados cuando el amperímetro se usa para medircada una de las corrientes que se indican en el circuito.
+c. Calcule el efecto de carga en el medidor cuando se mide cada una de las corrientes.
+
+
 ### 7-6 ANÁLISIS DE CIRCUITOS POR COMPUTADORA
+39. Use Multisim para encontrar V2, V4, IT, I1 e I2 en el circuito de la figura 7-10.
+
+
 ## 8. MÉTODO DE ANÁLISIS
 ### 8-1 FUENTES DE CORRIENTE CONSTANTE
+1.-Encuentre el voltaje VS para el circuito de la figura 8-64.
+
+![image](https://user-images.githubusercontent.com/84458025/125379398-12fa0580-e356-11eb-9676-41bd59b5b3e6.png)
+
+3.-Vea el circuito de la figura 8-66:
+
+![image](https://user-images.githubusercontent.com/84458025/125379499-3de45980-e356-11eb-8e5b-ad99f75d8c4f.png)
+
+a. Encuentre la corriente I3.
+b. Determine los voltajes VS y V1.
+
+5. Para el circuito de la figura 8-68 encuentre las corrientes I1 e I2.
+
+![image](https://user-images.githubusercontent.com/84458025/125379603-6d936180-e356-11eb-9fe0-6e6f76d9fd9f.png)
+
+7. Verifique que la potencia suministrada por las fuentes es igual a la suma de las potencias disipadas por los resistores en el circuito de la figura 8-68.
+
+![image](https://user-images.githubusercontent.com/84458025/125379656-8865d600-e356-11eb-9897-a5bbbfdb67ab.png)
+
+
+
+
 ### 8-2 CONVERSIONES DE FUENTE
+9. Convierta cada fuente de voltaje de la figura 8-70 en su fuente de corriente equivalente.
+
+![image](https://user-images.githubusercontent.com/84458025/125379777-be0abf00-e356-11eb-94f0-43a603e5db29.png)
+
+11. Vea el circuito de la figura 8-72:
+
+![image](https://user-images.githubusercontent.com/84458025/125379889-f8745c00-e356-11eb-8492-082965ad18f7.png)
+
+a. Encuentre la corriente a través del resistor de carga con la regla del divisor de corriente.
+b. Convierta la fuente de corriente en su fuente de voltaje equivalente y determine,otra vez, la corriente a través de la carga.
+
+13. Vea el circuito de la figura 8-74:
+
+![image](https://user-images.githubusercontent.com/84458025/125380086-45f0c900-e357-11eb-8afd-770fce510385.png)
+
+
+a. Convierta la fuente de corriente y el resistor de 330 ohms en su fuente de voltaje equivalente.
+b. Encuentre la corriente I a través de RL.
+c. Determine el voltaje Vab.
+
+
 ### 8-3 FUENTES DE CORRIENTE EN PARALELO Y EN SERIE
+15. Encuentre el voltaje V2 y la corriente I1 para el circuito de la figura 8-76.
+
+![image](https://user-images.githubusercontent.com/84458025/125380221-759fd100-e357-11eb-8eb8-048bcad995f7.png)
+
+17. Para el circuito de la figura 8-78 convierta la fuente de corriente y el resistor de 2.4 kohms en una fuente de voltaje y calcule el voltaje Vab y la corriente I3
+
+
+
 ### 8-4 ANÁLISIS DE CORRIENTE DE RAMA
 ### 8-5 ANÁLISIS DE CORRIENTE DE MALLAS (LAZOS)
 ### 8-6 ANÁLISIS DE NODOS
