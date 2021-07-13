@@ -176,16 +176,28 @@ c. Calcule el efecto de carga en el medidor cuando se mide cada una de las corri
 
 ![image](https://user-images.githubusercontent.com/84458025/125379398-12fa0580-e356-11eb-9676-41bd59b5b3e6.png)
 
+![image](https://user-images.githubusercontent.com/84458025/125397951-43509c80-e374-11eb-90fc-77ac26dbf18d.png)
+
+
 3.-Vea el circuito de la figura 8-66:
 
 ![image](https://user-images.githubusercontent.com/84458025/125379499-3de45980-e356-11eb-8e5b-ad99f75d8c4f.png)
 
 a. Encuentre la corriente I3.
+
+![image](https://user-images.githubusercontent.com/84458025/125398551-15b82300-e375-11eb-9534-730070cec3f0.png)
+
 b. Determine los voltajes VS y V1.
+
+![image](https://user-images.githubusercontent.com/84458025/125399712-99beda80-e376-11eb-80e1-6ba03f5ca956.png)
+
 
 5. Para el circuito de la figura 8-68 encuentre las corrientes I1 e I2.
 
 ![image](https://user-images.githubusercontent.com/84458025/125379603-6d936180-e356-11eb-9fe0-6e6f76d9fd9f.png)
+
+![image](https://user-images.githubusercontent.com/84458025/125400325-603a9f00-e377-11eb-85a7-74c62e35a49a.png)
+
 
 7. Verifique que la potencia suministrada por las fuentes es igual a la suma de las potencias disipadas por los resistores en el circuito de la figura 8-68.
 
@@ -238,6 +250,7 @@ c. Determine el voltaje Vab.
 
 17. Para el circuito de la figura 8-78 convierta la fuente de corriente y el resistor de 2.4 kohms en una fuente de voltaje y calcule el voltaje Vab y la corriente I3
 
+![image](https://user-images.githubusercontent.com/84458025/125401126-667d4b00-e378-11eb-961b-a297f1180c70.png)
 
 
 ### 8-4 ANÁLISIS DE CORRIENTE DE RAMA
