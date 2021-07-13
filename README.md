@@ -124,6 +124,125 @@ b. RT = R1 + (R2||R3) + [R4||(R5 + R6)]
 ![image](https://user-images.githubusercontent.com/84425276/125490735-901de44f-b31a-454b-be9c-38e8deca3e7b.png)
 
 ### 7-2 ANÁLISIS DE CIRCUITOS EN SERIE - PARALELO
+
+7. Determine la resistencia total para cada red de la figura 7-50.
+
+![image](https://user-images.githubusercontent.com/84425276/125490978-a1c25a7e-edcf-4f27-85f3-f012f7ef2f6f.png)
+
+(a)
+
+![image](https://user-images.githubusercontent.com/84425276/125491146-e486e2a1-45c2-4a64-80ee-16818c88875d.png)
+
+![image](https://user-images.githubusercontent.com/84425276/125491168-037efefc-0686-4fc6-ac12-159b86bbf8d0.png)
+
+![image](https://user-images.githubusercontent.com/84425276/125491197-5d45b3f8-8593-49a8-9acb-0495d84bec94.png)
+
+![image](https://user-images.githubusercontent.com/84425276/125491223-0d1caff3-9d9e-4b38-bef6-f25a4f0b3d81.png)
+
+![image](https://user-images.githubusercontent.com/84425276/125491292-9ec259ed-7e8e-43e8-9a55-154ad0b15384.png)
+
+![image](https://user-images.githubusercontent.com/84425276/125491308-ebc97bef-ca49-40ab-b1bb-6e40f7fd4ae1.png)
+
+![image](https://user-images.githubusercontent.com/84425276/125491340-88d12d39-d08e-433e-994e-c5e44710ee81.png)
+
+(b)
+
+![image](https://user-images.githubusercontent.com/84425276/125491380-5d01507b-1931-4a8a-a7dd-e177874293ec.png)
+
+![image](https://user-images.githubusercontent.com/84425276/125491414-285ee834-b8a7-45dc-bfe7-94ac76cf8a05.png)
+
+![image](https://user-images.githubusercontent.com/84425276/125491433-c6ef18fb-d936-470b-9ee3-323e4d0c4176.png)
+
+![image](https://user-images.githubusercontent.com/84425276/125491455-f7806338-fde4-443f-bc29-5c7c01185a36.png)
+
+![image](https://user-images.githubusercontent.com/84425276/125491469-ba1a5dea-1fa1-47d6-b44d-6bfd84f498c8.png)
+
+![image](https://user-images.githubusercontent.com/84425276/125491490-c23cb68c-f1f3-4ce8-bfc6-466bddb1bcb9.png)
+
+![image](https://user-images.githubusercontent.com/84425276/125491552-ad1a2c41-10cf-4ba7-b937-a5ba8ae0bedd.png)
+
+![image](https://user-images.githubusercontent.com/84425276/125491553-6145b702-f85b-4e07-9471-b9e437d65cf1.png)
+
+9. Calcule la resistencia Rab y Rcd en el circuito de la figura 7-52. 
+
+![image](https://user-images.githubusercontent.com/84425276/125491598-7d5d5012-4373-4190-aeca-7defa9b007fa.png)
+
+Para Rab ->
+
+![image](https://user-images.githubusercontent.com/84425276/125491650-02b8b6ff-b0e5-4dca-b739-6d50874e6eec.png)
+
+![image](https://user-images.githubusercontent.com/84425276/125491702-010dddd9-089f-4977-85c9-9ed3959bdb8d.png)
+
+![image](https://user-images.githubusercontent.com/84425276/125491721-b7290330-c526-4edb-9619-d17035121d5b.png)
+
+![image](https://user-images.githubusercontent.com/84425276/125491739-c36dccd4-1cfd-424a-927c-7d4aa7515251.png)
+
+![image](https://user-images.githubusercontent.com/84425276/125491757-c5285ffc-4bcf-4885-b6b0-6a26bfc34005.png)
+
+![image](https://user-images.githubusercontent.com/84425276/125491816-0ec1ccea-44ef-43b6-b4f1-e983600b0450.png)
+
+Para Rcd ->
+
+![image](https://user-images.githubusercontent.com/84425276/125491887-786ac648-80d3-4e19-bbde-14e125d100e9.png)
+
+![image](https://user-images.githubusercontent.com/84425276/125491929-cab8ec80-7cd7-4eba-ab5d-a7bc9036eecf.png)
+
+![image](https://user-images.githubusercontent.com/84425276/125492019-d0587e96-3144-4cb6-a891-c3bede0856cf.png)
+
+11. Vea el circuito de la figura 7-54.
+
+Encuentre las siguientes cantidades:
+
+a. RT
+
+b. IT, I1, I2, I3, I4
+
+c. Vab, Vbc.
+
+![image](https://user-images.githubusercontent.com/84425276/125492056-abfd01c0-596c-4ac6-b5d1-8d7c2c83ff87.png)
+
+![image](https://user-images.githubusercontent.com/84425276/125492087-1961a4bf-0b9f-4c34-8c0c-3da4d3b3cf14.png)
+
+![image](https://user-images.githubusercontent.com/84425276/125492170-f3b53891-ea9d-4235-bc1a-fe5500a229e1.png)
+
+c)
+
+![image](https://user-images.githubusercontent.com/84425276/125492229-4c850b0a-c00a-49e3-975a-6d5454f9ff40.png)
+
+13. Vea el circuito de la figura 7-56.
+
+a. Encuentre las corrientes I1, I2, I3, I4, I5 e I6.
+
+b. Encuentre los voltajes Vab y Vcd.
+
+c. Verifique que la potencia suministrada al circuito es igual a la suma de las potencias disipadas por los resistores.
+
+![image](https://user-images.githubusercontent.com/84425276/125492271-c29611a5-e3e9-4ec3-b45f-1d3a21edfe20.png)
+
+![image](https://user-images.githubusercontent.com/84425276/125492310-413526ea-967d-4fa6-8acf-f86847f654a7.png)
+
+![image](https://user-images.githubusercontent.com/84425276/125492388-eef57852-46ec-491d-98d6-429930f83252.png)
+
+15. Vea los circuitos de la figura 7-58:
+
+a. Encuentre las corrientes indicadas.
+
+b. Encuentre el voltaje Vab.
+
+c. Verifique que la potencia suministrada al circuito es igual a la suma de las potencias disipadas por los resistores.
+
+![image](https://user-images.githubusercontent.com/84425276/125492626-8d8c4113-ba55-4bf1-89a2-4df2f626e10c.png)
+
+![image](https://user-images.githubusercontent.com/84425276/125492675-01f783d2-5949-4627-9c6e-e171017254ce.png)
+
+![image](https://user-images.githubusercontent.com/84425276/125492699-5e8403b5-1642-4c72-972b-b9a377a89c8b.png)
+
+![image](https://user-images.githubusercontent.com/84425276/125492747-9a70ad21-5e64-4b7f-8f38-8659861a2f9a.png)
+
+![image](https://user-images.githubusercontent.com/84425276/125492786-c3174d71-cc4b-49d8-8bfa-ee48d4fdc56e.png)
+
+![image](https://user-images.githubusercontent.com/84425276/125492809-f22b4cd0-95ce-4423-b0ed-d04ebbc0cd73.png)
+
 ### 7-3 APLICACIONES DE LOS CIRCUITOS EN SERIE - PARALELO
 
 23. Considere el circuito de la figura 7-65 y los valores indicados:
